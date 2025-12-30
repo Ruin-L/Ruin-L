@@ -16,10 +16,10 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.bugstack.icu/">
+    <a href="https://www.websiteforyou.cn">
       <img src="https://img.shields.io/badge/Website-主页-E3023A" />
     </a>&emsp;
-    <a href="https://doc.bugstack.icu/">
+    <!-- <a href="https://doc.bugstack.icu/">
       <img src="https://img.shields.io/badge/Doc-文档-blue" />
     </a>&emsp;
     <a href="https://fav.bugstack.icu/">
@@ -30,7 +30,7 @@
     </a>&emsp;
     <a href="https://space.bilibili.com/12764212">
       <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" />
-    </a>&emsp;
+    </a>&emsp; -->
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=01Petard&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <table>
