@@ -2,7 +2,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://github.com/01Petard">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C%20World!%22);" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World!%22);" />
     </a>
   </div>
   <picture>
@@ -38,7 +38,7 @@
         <td>
           <h3>🤺 About Me</h3>
           <img align="right" width="80" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-          <p>&emsp;&emsp;嗨，你好，我是小黄同学。热爱编程、数码、游戏。</p>
+          <p>&emsp;&emsp;嗨，你好，我是进进同学。热爱编程、数码、游戏。</p>
           <p>&emsp;&emsp;热爱软件工程和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
           <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
           <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
