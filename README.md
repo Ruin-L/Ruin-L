@@ -46,33 +46,4 @@
       </tr>
     </table>
   </div>
-
-
-  <!-- ########################################## 分割 ########################################## -->
-  <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-  <!-- for beauty 留个空行 -->
-  <div>&nbsp;</div>
-
-  <!-- metrics 基础资料 -->
-  <img src="./github-metrics/base.svg" alt="基本信息"/>
-
-  <!-- for beauty 留个空行 -->
-  <div>&nbsp;</div>
-
-  <div align="center">
-    <!-- GitHub metrics 信息指标 -->
-    <table>
-      <tr>
-        <td>
-          <img src="./github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" />
-        </td>
-        <td>
-          <img src="./github-metrics/languages.indepth.svg" alt="languages.indepth" />
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-<div>
 </div>
